@@ -1,5 +1,5 @@
 # contoh_baru
 Hello World
 
-Nama : Rc
-Coba baru aja
+Nama : Ricko Cahyadi
+Kelas : XI TKJ 1
